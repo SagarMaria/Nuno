@@ -40,3 +40,9 @@
 .os-animation.animated {
 	opacity: 1;
 }
+
+/*============= LIGHTBOX FIX =============*/
+
+.lightboxOverlay {
+	max-width: 100% !important;
+}
